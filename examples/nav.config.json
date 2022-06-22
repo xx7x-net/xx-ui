@@ -302,6 +302,10 @@
           {
             "path": "/drawer",
             "title": "Drawer 抽屉"
+          },
+          {
+            "path": "/seamlessScroll",
+            "title": "SeamlessScroll 无缝滚动"
           }
         ]
       }

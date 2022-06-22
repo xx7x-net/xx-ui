@@ -66,6 +66,7 @@
   "row": "./packages/row/index.js",
   "scrollbar": "./packages/scrollbar/index.js",
   "select": "./packages/select/index.js",
+  "seamless-scroll": "./packages/seamless-scroll/index.js",
   "skeleton": "./packages/skeleton/index.js",
   "skeleton-item": "./packages/skeleton-item/index.js",
   "slider": "./packages/slider/index.js",

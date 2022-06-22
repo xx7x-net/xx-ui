@@ -67,6 +67,7 @@ import Result from '../packages/result/index.js'
 import Row from '../packages/row/index.js'
 import Scrollbar from '../packages/scrollbar/index.js'
 import Select from '../packages/select/index.js'
+import SeamlessScroll from '../packages/seamless-scroll/index.js'
 import Skeleton from '../packages/skeleton/index.js'
 import SkeletonItem from '../packages/skeleton-item/index.js'
 import Slider from '../packages/slider/index.js'
@@ -152,6 +153,7 @@ const components = [
   Row,
   Scrollbar,
   Select,
+  SeamlessScroll,
   Skeleton,
   SkeletonItem,
   Slider,
@@ -272,6 +274,7 @@ export default {
   Row,
   Scrollbar,
   Select,
+  SeamlessScroll,
   Skeleton,
   SkeletonItem,
   Slider,
