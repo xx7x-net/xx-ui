@@ -1,6 +1,0 @@
-node_modules
-.DS_Store
-lib
-gitToken.md
-build/bin/algolia-key.js
-.gitlab-ci.yml
